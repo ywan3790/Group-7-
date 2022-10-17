@@ -4,15 +4,15 @@
 
 
 3. Analysis Plan:
-  1. Cofirmation of the sample sites, 3 sites from the nothern region of GBR that have available bleaching rate data are selected randomly
-  2. Monthly-daily data retrieval of 4 parameters and bleaching rate: Aragonite saturation rate, Temperature, Light intensity above seagrass,and Saturated oxygen
-  3. Making maps of the northern, middle, and southern sites including the latitude and longitude and the GBR bleaching rate
-  4. Plotting curves of the bleaching rate changes of sites from December 2016 to March 2017.
-  5. Plotting curves of the aragonite saturation changes of sites from December 2016 to March 2017;
-  6. Plotting curves of the surface seawater temperature changes of sites from December 2016 to March 2017
-  7. Combining SST, and dissolved oxygen of sites to show the correlation between the two variables.
-  8. Comparing the output of these parameters to bleaching rate
-  9. Discussion is given for justifying the results
+  1.Cofirmation of the sample sites, 3 sites from the nothern region of GBR that have available bleaching rate data are selected randomly
+  2.Monthly-daily data retrieval of 4 parameters and bleaching rate: Aragonite saturation rate, Temperature, Light intensity above seagrass,and Saturated oxygen
+  3.Making maps of the northern, middle, and southern sites including the latitude and longitude and the GBR bleaching rate
+  4.Plotting curves of the bleaching rate changes of sites from December 2016 to March 2017.
+  5.Plotting curves of the aragonite saturation changes of sites from December 2016 to March 2017;
+  6.Plotting curves of the surface seawater temperature changes of sites from December 2016 to March 2017
+  7.Combining SST, and dissolved oxygen of sites to show the correlation between the two variables.
+  8.Comparing the output of these parameters to bleaching rate
+  9.Discussion is given for justifying the results
 
 
-5. Data Resource: http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-
+4. Data Resource: http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-
