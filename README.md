@@ -3,13 +3,13 @@
 3.Summary of the study: 
 The summer season from 2016 to 2017 has been a tough challenge for the Australian government to deal with due to the mass bleaching event that happened at the Great Barrier Reef (GBR). This event has been recognized as one of the most severe bleaching events in history and it has disrupted the whole ecosystem by this high mortality rate in corals, especially in the northern regions of reefs. Numbers of studies have been done on the causes behind bleaching, but uncertainty still stands on account of variety in parameters. Therefore our study has proposed four indicators that potentially play critical roles during the process of bleaching, those are aragonite saturation rate, temperature, light intensity and oxygen saturation rate respectively. For the analysis of the data, three monthly daily data of sampled sites on northern GBR are retrieved from the eReefs, and have been analyzed and compared by using language python on Jupyter notebook. The plot results have shown that the correlation does stand between the proposed indicators and coral bleaching rate across three sample sites. However, a specific indicator as aragonite saturation has shown an uncertain response to the changes in bleaching rate. 
 4. Analysis Plan:
--Cofirmation of the sample sites, 3 sites from the nothern region of GBR that have available bleaching rate data are selected randomly
--Monthly-daily data retrieval of 4 parameters and bleaching rate: Aragonite saturation rate, Temperature, Light intensity above seagrass,and Saturated oxygen
--Making maps of the northern, middle, and southern sites including the latitude and longitude and the GBR bleaching rate
--Plotting curves of the bleaching rate changes of sites from December 2016 to March 2017.
--Plotting curves of the aragonite saturation changes of sites from December 2016 to March 2017;
--Plotting curves of the surface seawater temperature changes of sites from December 2016 to March 2017
--Combining SST, and dissolved oxygen of sites to show the correlation between the two variables.
--Comparing the output of these parameters to bleaching rate
--Specific discussion is given for justifying the results
+4.1 Cofirmation of the sample sites, 3 sites from the nothern region of GBR that have available bleaching rate data are selected randomly
+4.2 Monthly-daily data retrieval of 4 parameters and bleaching rate: Aragonite saturation rate, Temperature, Light intensity above seagrass,and Saturated oxygen
+4.3 Making maps of the northern, middle, and southern sites including the latitude and longitude and the GBR bleaching rate
+4.4 Plotting curves of the bleaching rate changes of sites from December 2016 to March 2017.
+4.5 Plotting curves of the aragonite saturation changes of sites from December 2016 to March 2017;
+4.6 Plotting curves of the surface seawater temperature changes of sites from December 2016 to March 2017
+4.7 Combining SST, and dissolved oxygen of sites to show the correlation between the two variables.
+4.8 Comparing the output of these parameters to bleaching rate
+4.9 Specific discussion is given for justifying the results
 5. Data Resource: http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-
