@@ -5,7 +5,11 @@ The summer season from 2016 to 2017 has been a tough challenge for the Australia
 Analysis Plan:
 Cofirmation of the sample sites, 3 sites from the nothern region of GBR that have available bleaching rate data are selected randomly
 Monthly-daily data retrieval of 4 parameters and bleaching rate: Aragonite saturation rate, Temperature, Light intensity above seagrass,and Saturated oxygen
-Plots are made for each parameter
+Making maps of the northern, middle, and southern sites including the latitude and longitude and the GBR bleaching rate
+Plotting curves of the bleaching rate changes of sites from December 2016 to March 2017.
+Plotting curves of the aragonite saturation changes of sites from December 2016 to March 2017;
+Plotting curves of the surface seawater temperature changes of sites from December 2016 to March 2017
+Combining SST, and dissolved oxygen of sites to show the correlation between the two variables.
 Comparing the output of these parameters to bleaching rate
 Specific discussion is given for justifying the results
 Data Resource: http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-
